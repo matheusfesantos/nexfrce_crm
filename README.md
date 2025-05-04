@@ -26,7 +26,6 @@ Para rodar o projeto, é necessário ter o **Frappe Bench** e o **MariaDB** inst
 1. Instale o Frappe Bench:
    ```bash
    pip install frappe-bench
-````
 
 2. Instale o MariaDB no seu sistema. Para mais detalhes, consulte a [documentação do MariaDB](https://mariadb.org/).
 
@@ -34,9 +33,7 @@ Para rodar o projeto, é necessário ter o **Frappe Bench** e o **MariaDB** inst
 
 4. Crie um novo site no Frappe Bench e configure o banco de dados MariaDB:
 
-   ```bash
    bench new-site nome_do_site
-   ```
 
 ### 2. **Problemas Encontrados e Soluções**
 
